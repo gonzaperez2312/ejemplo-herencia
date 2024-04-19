@@ -1,0 +1,12 @@
+C:\Users\gonza\repositorios\ejemplo-herencia\EjemploHerenciaService\bin\Debug\net7.0\EjemploHerenciaService.deps.json
+C:\Users\gonza\repositorios\ejemplo-herencia\EjemploHerenciaService\bin\Debug\net7.0\EjemploHerenciaService.dll
+C:\Users\gonza\repositorios\ejemplo-herencia\EjemploHerenciaService\bin\Debug\net7.0\EjemploHerenciaService.pdb
+C:\Users\gonza\repositorios\ejemplo-herencia\EjemploHerenciaService\obj\Debug\net7.0\EjemploHerenciaService.csproj.AssemblyReference.cache
+C:\Users\gonza\repositorios\ejemplo-herencia\EjemploHerenciaService\obj\Debug\net7.0\EjemploHerenciaService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\repositorios\ejemplo-herencia\EjemploHerenciaService\obj\Debug\net7.0\EjemploHerenciaService.AssemblyInfoInputs.cache
+C:\Users\gonza\repositorios\ejemplo-herencia\EjemploHerenciaService\obj\Debug\net7.0\EjemploHerenciaService.AssemblyInfo.cs
+C:\Users\gonza\repositorios\ejemplo-herencia\EjemploHerenciaService\obj\Debug\net7.0\EjemploHerenciaService.csproj.CoreCompileInputs.cache
+C:\Users\gonza\repositorios\ejemplo-herencia\EjemploHerenciaService\obj\Debug\net7.0\EjemploHerenciaService.dll
+C:\Users\gonza\repositorios\ejemplo-herencia\EjemploHerenciaService\obj\Debug\net7.0\refint\EjemploHerenciaService.dll
+C:\Users\gonza\repositorios\ejemplo-herencia\EjemploHerenciaService\obj\Debug\net7.0\EjemploHerenciaService.pdb
+C:\Users\gonza\repositorios\ejemplo-herencia\EjemploHerenciaService\obj\Debug\net7.0\ref\EjemploHerenciaService.dll
